@@ -6,3 +6,9 @@ body {
     padding: 0;
 }
 
+h1 {
+    /* Set the text color to a dark purple */
+    color: #4B0082; /* Dark purple */
+    text-align: center;
+    margin-top: 20px;
+}
